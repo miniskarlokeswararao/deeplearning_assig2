@@ -1,1 +1,4 @@
-# deeplearning_assig2
+tensorflow
+pandas
+numpy
+PIL
